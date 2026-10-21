@@ -1,10 +1,10 @@
 {
-    "version": "0.1.42",
+    "version": "0.1.43",
     "description": "面向 AI Agent 的胜可知量化研究与实盘交易命令行工具",
     "homepage": "https://github.com/sheng-ke-zhi/skz-quant-cli",
     "license": "Apache-2.0",
-    "url": "https://github.com/sheng-ke-zhi/skz-quant-cli/releases/download/v0.1.42/skz-x86_64-pc-windows-gnu.zip",
-    "hash": "sha256:2e058a94390a3ca2199e02c9d5c6039895406b3c3bc9cf1007c394bb9bb7ffa6",
+    "url": "https://github.com/sheng-ke-zhi/skz-quant-cli/releases/download/v0.1.43/skz-x86_64-pc-windows-gnu.zip",
+    "hash": "sha256:767359f76b08e83adff9fd5732f8a70fb66b0f7ee9985a1f104c5f3365592374",
     "bin": "skz.exe",
     "checkver": {
         "url": "https://github.com/sheng-ke-zhi/skz-quant-cli/releases/latest",
